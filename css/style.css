@@ -20,11 +20,6 @@ header{
     padding: 0 20px;
     box-sizing: border-box; 
 }
-h1{
-    font-weight: bold;
-    font-size: 2rem;
-    padding-left: 110.8px;
-}
 
 .déroulant{
     display: block;
@@ -35,4 +30,8 @@ h1{
     font-weight: bold;
     padding: 20px;
 }
-
+button {
+    background-color: crimson;
+    color: white;
+    margin-left: 10rem;
+}
