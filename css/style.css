@@ -37,10 +37,23 @@ header {
 button {
     background-color: crimson;
     color: white;
-    margin-left: 10rem;
+    margin-left: 20rem;
 }
 
 .CPE {
     font-size: small;
     font-weight: bold;
+}
+
+#container_header {
+    position: relative;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+p {
+    margin-right: 40%;
 }
