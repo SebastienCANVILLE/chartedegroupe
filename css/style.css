@@ -57,3 +57,9 @@ button {
 p {
     margin-right: 40%;
 }
+
+#random_apprenant {
+    display: block;
+    margin : auto;
+    margin-bottom: 20px;
+}
