@@ -2,7 +2,9 @@ body {
     background-color: whitesmoke;
 }
 
-
+ul {
+    list-style-image: url("/images/bullet.png");
+}
 
 header {
     background-color: white;
