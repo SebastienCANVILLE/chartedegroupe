@@ -1,9 +1,9 @@
-ul {
-    list-style-image: url("/images/bullet.png");
-}
-
 body {
     background-color: whitesmoke;
+}
+
+ul {
+    list-style-image: url("/images/bullet.png");
 }
 
 header {
